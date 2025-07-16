@@ -32,21 +32,18 @@ Ideal for both solo developers and teams, Cursor enables full offline coding env
 
 ## 🖼 Preview
 
-![Cursor Interface Overview](https://user-images.githubusercontent.com/123456789/preview1.jpg)  
+![Cursor Interface Overview](https://cdn.prod.website-files.com/65caf7635d745af6514ffcd8/6839f5caeb82f3e2a640a592_cursor-ai.jpg)  
 *Main interface showing AI pair programming in action*
 
-![AI Prompt Sidebar](https://user-images.githubusercontent.com/123456789/preview2.jpg)  
+![AI Prompt Sidebar](https://windows-cdn.softpedia.com/screenshots/Anysphere-Cursor_4.png)  
 *Side panel for inserting AI-driven code snippets and documentation*
 
-![Offline Settings Panel](https://user-images.githubusercontent.com/123456789/preview3.jpg)  
+![Offline Settings Panel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReyKaGTl9zr03NhYY2afmKthIq3RYpuPbZNw&s)  
 *Settings menu with offline mode and local model integration*
-
-![Extension Marketplace](https://user-images.githubusercontent.com/123456789/preview4.jpg)  
-*Manage extensions and LSP servers without needing online access*
 
 ---
 
 ## 🔍 SEO Keywords
 
-cursor, cursor software, cursor 2, cursor online ,cursor for free, cloud cursor, cursor site,cursor browser, cursor website, cursor download for windows, cursor free, cursor ai, cursor code editor
+cursor, cursor software, cursor 2, cursor online ,cursor for free, cloud cursor, cursor site, cursor browser, cursor website, cursor download for windows, cursor free, cursor ai, cursor code editor, cursor ai code editor download, cursor ai code editor download for windows
 
