@@ -38,9 +38,6 @@ Ideal for both solo developers and teams, Cursor enables full offline coding env
 ![AI Prompt Sidebar](https://windows-cdn.softpedia.com/screenshots/Anysphere-Cursor_4.png)  
 *Side panel for inserting AI-driven code snippets and documentation*
 
-![Offline Settings Panel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReyKaGTl9zr03NhYY2afmKthIq3RYpuPbZNw&s)  
-*Settings menu with offline mode and local model integration*
-
 ---
 
 ## 🔍 SEO Keywords
